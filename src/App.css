@@ -1,38 +1,233 @@
-.App {
+body{
   text-align: center;
+  color: black;
+  background-image: url(./images/indian.webp);
+  background-attachment: fixed;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.map{
+  height:833px;
+  width:699px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Telangana{
+  height: 750px;
+  background-image: url(./images/Telangana.jpg);
+  background-attachment: scroll;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.TamilNadu{
+  height: 750px;
+  background-image: url(./images/TamilNadu.jpg);
+  background-attachment: scroll;
 }
 
-.App-link {
-  color: #61dafb;
+.Karnataka{
+  height: 750px;
+  background-image: url(./images/Karnataka.png);
+  background-attachment: scroll;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Kerala{
+  height: 750px;
+  background-image: url(./images/Kerala.jpg);
+  background-attachment: scroll;
+}
+
+.Goa{
+  height: 750px;
+  background-image: url(./images/Goa.jpg);
+  background-attachment: scroll;
+}
+
+.Ladakh{
+  height: 750px;
+  background-image: url(./images/Ladhak.webp);
+  background-attachment: scroll;
+}
+
+.Jammuandkashmir{
+  height: 750px;
+  background-image: url(./images/Jammu.png);
+  background-attachment: scroll;
+}
+
+.HimachalPradesh{
+  height: 750px;
+  background-image: url(./images/Himmachal.jpeg);
+  background-attachment: scroll;
+}
+
+.Punjab{
+  height: 750px;
+  background-image: url(./images/Punjab.jpg);
+  background-attachment: scroll;
+}
+
+.Chandigarh{
+  height: 750px;
+  background-image: url(./images/Chandigarh.jpg);
+  background-attachment: scroll;
+}
+
+.Haryana{
+  height: 750px;
+  background-image: url(./images/Haryana.jpg);
+  background-attachment: scroll;
+}
+
+.Delhi{
+  height: 750px;
+  background-image: url(./images/Delhi.jpg);
+  background-attachment: scroll;
+}
+
+.Rajasthan{
+  height: 750px;
+  background-image: url(./images/Rajasthan.jpg);
+  background-attachment: scroll;
+}
+
+.Uttarpradesh{
+  height: 750px;
+  background-image: url(./images/Uttar.jpg);
+  background-attachment: scroll;
+}
+
+.ArunachalPradesh{
+  height: 750px;
+  background-image: url(./images/Arunachal.jpg);
+  background-attachment: scroll;
+}
+
+.Nagaland{
+  height: 750px;
+  background-image: url(./images/Nagaland.jpg);
+  background-attachment: scroll;
+}
+
+.Manipur{
+  height: 750px;
+  background-image: url(./images/Manipur.jpg);
+  background-attachment: scroll;
+}
+
+.Mizoram{
+  height: 750px;
+  background-image: url(./images/Mizoram.jpg);
+  background-attachment: scroll;
+}
+
+.Tripura{
+  height: 750px;
+  background-image: url(./images/Tripura.webp);
+  background-attachment: scroll;
+}
+
+.Meghalaya{
+  height: 750px;
+  background-image: url(./images/Meghalaya.webp);
+  background-attachment: scroll;
+}
+
+.Assam{
+  height: 750px;
+  background-image: url(./images/Assam.webp);
+  background-attachment: scroll;
+}
+
+.Sikkim{
+  height: 750px;
+  background-image: url(./images/sikkim.jpg);
+  background-attachment: scroll;
+}
+
+.WestBengal{
+  height: 750px;
+  background-image: url(./images/West\ benagl.jpg);
+  background-attachment: scroll;
+}
+
+.Uttarakhand{
+  height: 750px;
+  background-image: url(./images/Uttarakhand.jpeg);
+  background-attachment: scroll;
+}
+
+.Gujarat{
+  height: 750px;
+  background-image: url(./images/Gujarat.jpg);
+  background-attachment: scroll;
+}
+
+.Bihar{
+  height: 750px;
+  background-image: url(./images/Bihar.jpg);
+  background-attachment: scroll;
+}
+
+.Jharkhand{
+  height: 750px;
+  background-image: url(./images/Jharkhand.jpg);
+  background-attachment: scroll;
+}
+
+.MadhyaPradesh{
+  height: 750px;
+  background-image: url(./images/MadhyaPradesh.jpg);
+  background-attachment: scroll;
+}
+
+.Orrisa{
+  height: 750px;
+  background-image: url(./images/Orrisa.jpg);
+  background-attachment: scroll;
+}
+
+.DadraNagarHaveliandDamanDiu{
+  height: 750px;
+  background-image: url(./images/DND.jpg);
+  background-attachment: scroll;
+}
+
+.Chattisgarh{
+  height: 750px;
+  background-image: url(./images/chattisgarh.jpg);
+  background-attachment: scroll;
+}
+
+.Maharashtra{
+  height: 750px;
+  background-image: url(./images/Maharashtra.jpg);
+  background-attachment: scroll;
+}
+
+.AndhraPradesh{
+  height: 750px;
+  background-image: url(./images/Andhra.webp);
+  background-attachment: scroll;
+}
+
+.Lakshadweep{
+  height: 750px;
+  background-image: url(./images/Lakshadweep.jpg);
+  background-attachment: scroll;
+}
+
+.Puducherry{
+  height: 750px;
+  background-image: url(./images/Puducherry.jpg);
+  background-attachment: scroll;
+}
+
+.AndamanandNicobar{
+  height: 750px;
+  background-image: url(./images/Andaman.jpg);
+  background-attachment: scroll;
+}
+
+.info-box{
+  background-color:burlywood;
 }

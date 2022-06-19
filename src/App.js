@@ -1,23 +1,40 @@
-import logo from './logo.svg';
+import IndiaMap from "./components/india";
+import { useState } from "react";
+import info from "./Data/info";
 import './App.css';
 
 function App() {
+  var [place,changePlace] = useState("");
+  var [c,changeC] = useState("");
+  var [x,changeX] = useState({});
+
+  function ren(event){
+    var y;
+    changePlace(event.target.title);
+    changeC(event.target.alt);
+    console.log("Clicked "+event.target.title+"!");
+    console.log(info.filter(i => i.State.localeCompare(event.target.title)==0));
+    console.log(event.target.title);
+    y = info.filter(i => i.State.localeCompare(event.target.title)==0);
+    changeX(y);
+    console.log(x);
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Cultures Of India!</h1>
+      <h2>Click on any of the states and scroll down to know more about their cultures</h2>
+      <IndiaMap ren={ren}/>
+      <div className={c}>
+        <h1>{place}</h1>
+        <div className="info-box">
+          <h2>Dance Form:{x.Dance}</h2>
+          <p>{x.DanceInfo}</p>
+          <h2>Famous Food:{x.Food}</h2>
+          <p>{x.FoodInfo}</p>
+          <img src={x.image}/>
+        </div>
+      </div>
     </div>
   );
 }
