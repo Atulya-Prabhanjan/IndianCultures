@@ -1,5 +1,6 @@
 body{
   text-align: center;
+  align-content: center;
   color: black;
   background-image: url(./images/indian.webp);
   background-attachment: fixed;
@@ -13,221 +14,543 @@ body{
 }
 
 .Telangana{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Telangana.jpg);
   background-attachment: scroll;
+  position: relative;
 }
 
 .TamilNadu{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/TamilNadu.jpg);
   background-attachment: scroll;
+  position: relative;
 }
 
 .Karnataka{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Karnataka.png);
   background-attachment: scroll;
 }
 
 .Kerala{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Kerala.jpg);
   background-attachment: scroll;
 }
 
 .Goa{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Goa.jpg);
   background-attachment: scroll;
 }
 
 .Ladakh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Ladhak.webp);
   background-attachment: scroll;
 }
 
 .Jammuandkashmir{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Jammu.png);
   background-attachment: scroll;
 }
 
 .HimachalPradesh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Himmachal.jpeg);
   background-attachment: scroll;
 }
 
 .Punjab{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Punjab.jpg);
   background-attachment: scroll;
 }
 
 .Chandigarh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Chandigarh.jpg);
   background-attachment: scroll;
 }
 
 .Haryana{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Haryana.jpg);
   background-attachment: scroll;
 }
 
 .Delhi{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Delhi.jpg);
   background-attachment: scroll;
 }
 
 .Rajasthan{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Rajasthan.jpg);
   background-attachment: scroll;
 }
 
 .Uttarpradesh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Uttar.jpg);
   background-attachment: scroll;
 }
 
 .ArunachalPradesh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Arunachal.jpg);
   background-attachment: scroll;
 }
 
 .Nagaland{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Nagaland.jpg);
   background-attachment: scroll;
 }
 
 .Manipur{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Manipur.jpg);
   background-attachment: scroll;
 }
 
 .Mizoram{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Mizoram.jpg);
   background-attachment: scroll;
 }
 
 .Tripura{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Tripura.webp);
   background-attachment: scroll;
 }
 
 .Meghalaya{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Meghalaya.webp);
   background-attachment: scroll;
 }
 
 .Assam{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Assam.webp);
   background-attachment: scroll;
 }
 
 .Sikkim{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/sikkim.jpg);
   background-attachment: scroll;
 }
 
 .WestBengal{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/West\ benagl.jpg);
   background-attachment: scroll;
 }
 
 .Uttarakhand{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Uttarakhand.jpeg);
   background-attachment: scroll;
 }
 
 .Gujarat{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Gujarat.jpg);
   background-attachment: scroll;
 }
 
 .Bihar{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Bihar.jpg);
   background-attachment: scroll;
 }
 
 .Jharkhand{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Jharkhand.jpg);
   background-attachment: scroll;
 }
 
 .MadhyaPradesh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/MadhyaPradesh.jpg);
   background-attachment: scroll;
 }
 
 .Orrisa{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Orrisa.jpg);
   background-attachment: scroll;
 }
 
 .DadraNagarHaveliandDamanDiu{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/DND.jpg);
   background-attachment: scroll;
 }
 
 .Chattisgarh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/chattisgarh.jpg);
   background-attachment: scroll;
 }
 
 .Maharashtra{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Maharashtra.jpg);
   background-attachment: scroll;
 }
 
 .AndhraPradesh{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Andhra.webp);
   background-attachment: scroll;
+  position: relative;
 }
 
 .Lakshadweep{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Lakshadweep.jpg);
   background-attachment: scroll;
 }
 
 .Puducherry{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Puducherry.jpg);
   background-attachment: scroll;
 }
 
 .AndamanandNicobar{
-  height: 750px;
+  height: 1500px;
   background-image: url(./images/Andaman.jpg);
   background-attachment: scroll;
 }
 
 .info-box{
+  margin: auto;
   background-color:burlywood;
+  align-self: center;
+  align-content: center;
+  width: 500px;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.food{
+  height: 200px;
+  width: 200px;
+}
+
+.content{
+  align-content: center;
+}
+
+video{
+  height: 200px;
+  width: 200px;
+}
+
+.No{
+  display: none;
+}
+
+.Yes{
+  display: block;
+}
+
+.Telanganafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/hyderabadi\ biryani.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.TamilNadufood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/pongal.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Karnatakafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/BisiBelleBath.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Keralafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Appam.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Goafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Fish\ curry.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Jammuandkashmirfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Rogan\ Josh.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.HimachalPradeshfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Dhaam.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Punjabfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/makki\ di\ roti.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Haryanafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Bajara\ Khicri.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Rajasthanfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/daal\ bati\ churma.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Uttarpradeshfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/tunday\ kabab.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.ArunachalPradeshfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Thukpa.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Nagalandfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/pork\ with\ bamboo\ shoots.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Manipurfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Kangsohi.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Mizoramfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Misa\ Mach\ Poora.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Tripurafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/chakhwi.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Meghalayafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Jadoh.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Assamfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/papaya\ Khar.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Sikkimfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/momos.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.WestBengalfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/mangsho.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Uttarakhandfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/khafuli.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Gujaratfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Dhokla.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Biharfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/liti\ choka.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Jharkhandfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Rugra.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.MadhyaPradeshfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Bhutte\ ka\ Kees.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Orrisafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/chenna\ poda.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Chattisgarhfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/chila.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.Maharashtrafood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Misal\ Pav.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
+}
+
+.AndhraPradeshfood{
+  height: 200px;
+  width: 200px;
+  background-image: url(./images/Pootharekulu.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px 150px;
 }
